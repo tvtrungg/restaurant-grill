@@ -1,0 +1,85 @@
+{
+  "container": {
+    "brand": "Brand",
+    "date": "Monday - Saturday: 7:00 - 22:00",
+    "phone": "+84 123 456 789",
+    "mail": "siptea@gmail.com",
+    "address": "District 1, Ho Chi Minh City",
+    "button": {
+      "read_btn": "Read more"
+    },
+    "header": {
+      "nav1": "Home",
+      "nav2": "About",
+      "nav3": "Products",
+      "nav4": "News",
+      "nav5": "Contact"
+    },
+    "footer": {
+      "title": "Siptea Office",
+      "brn": "Business registration number: 123654987",
+      "brn_date": "Date of issue: January 1, 2023",
+      "place_of_issue": "Place of issue: Department of Planning and Investment of Ho Chi Minh City",
+      "sub_title_1": "Social",
+      "sub_title_2": "Directed"
+      
+    },
+    "home_page": {
+      "section_1": {
+        "slogan": "Savor the Delicate Flavors of Our Bubble Tea!"
+      },
+      "section_2": {
+        "carousel_content_1": {
+          "title": "Professionalism",
+          "content": "Devoting ourselves to tea brewing for more than 2 decades, we've been insisting on repeating each detail and striving towards perfection. The process is never tiresome, and we will insist on the spirit forever."
+        },
+        "carousel_content_2": {
+          "title": "Art Area",
+          "content": "Devoting ourselves to tea brewing for more than 2 decades, we've been insisting on repeating each detail and striving towards perfection. The process is never tiresome, and we will insist on the spirit forever."
+        },
+        "carousel_content_3": {
+          "title": "Humanistic Quality",
+          "content": "Professionalism is a must, and we are dedicated to providing the best quality. We are committed to the pursuit of excellence, and we will never stop."
+        }
+      },
+      "section_3": {
+        "title": "Reliable Quality",
+        "content": "Tea is one of the best crops for human beings. We follow each process rigorously from cultivating, plucking, roasting and farm management."
+      },
+      "menu": "Menu"
+    },
+    "about_page": {
+      "intro": "Introduction",
+      "nav1": "Brand Story",
+      "nav2": "Professionalism",
+      "nav3": "Art Area",
+      "nav4": "Humanities",
+      "content_1": {
+        "title": "Professionalism",
+        "content": "Devoting ourselves to tea brewing for more than 2 decades, we've been insisting on repeating each detail and striving towards perfection. The process is never tiresome, and we will insist on the spirit forever."
+      },
+      "content_2": {
+        "title": "Art Area",
+        "content": "Devoting ourselves to tea brewing for more than 2 decades, we've been insisting on repeating each detail and striving towards perfection. The process is never tiresome, and we will insist on the spirit forever."
+      },
+      "content_3": {
+        "title": "Humanistic Quality",
+        "content": "Professionalism is a must, and we are dedicated to providing the best quality. We are committed to the pursuit of excellence, and we will never stop."
+      }
+    },
+    "products_page": {
+      "intro": "Menu",
+      "nav1": "Full Menu",
+      "nav2": "Cold Items",
+      "nav3": "Hot Items"
+    },
+    "news_page": {
+      "intro": "News",
+      "title": "Outstanding News"
+    },
+    "contact_page": {
+      "intro": "Contact",
+      "title": "Map"
+    }
+  }
+}

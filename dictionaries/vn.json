@@ -1,0 +1,84 @@
+{
+  "container": {
+    "brand": "Giới thiệu",
+    "date": "Thứ 2 - Thứ 7: 7:00 - 22:00",
+    "phone": "+84 123 456 789",
+    "mail": "siptea@gmail.com",
+    "address": "Quận 1, Thành phố Hồ Chí Minh",
+    "button": {
+      "read_btn": "Xem thêm"
+    },
+    "header": {
+      "nav1": "Trang chủ",
+      "nav2": "Về chúng tôi",
+      "nav3": "Sản phẩm",
+      "nav4": "Tin tức",
+      "nav5": "Liên hệ"
+    },
+    "footer": {
+      "title": "Văn phòng Siptea",
+      "brn": "Số đăng ký kinh doanh: 123654789",
+      "brn_date": "Ngày cấp: 01/01/2023",
+      "place_of_issue": "Nơi cấp: Sở kế hoạch và đầu tư Thành phố Hồ Chí Minh",
+      "sub_title_1": "Mạng xã hội",
+      "sub_title_2": "Điều hướng"
+    },
+    "home_page": {
+      "section_1": {
+        "slogan": "Thưởng thức hương vị tinh tế của trà sữa trân châu của chúng tôi!"
+      },
+      "section_2": {
+        "carousel_content_1": {
+          "title": "Tính chuyên nghiệp",
+          "content": "Cống hiến hết mình cho việc pha trà trong hơn 2 thập kỷ, chúng tôi luôn kiên trì lặp lại từng chi tiết và phấn đấu hướng tới sự hoàn hảo."
+        },
+        "carousel_content_2": {
+          "title": "Nghệ thuật",
+          "content": "Cống hiến hết mình cho việc pha trà trong hơn 2 thập kỷ, chúng tôi luôn kiên trì lặp lại từng chi tiết và phấn đấu hướng tới sự hoàn hảo. Quá trình này không bao giờ mệt mỏi và chúng tôi sẽ kiên trì với tinh thần mãi mãi."
+        },
+        "carousel_content_3": {
+          "title": "Tính nhân văn",
+          "content": "Tính nhân văn là điều bắt buộc và chúng tôi tận tâm cung cấp chất lượng tốt nhất. Chúng tôi cam kết theo đuổi sự xuất sắc và chúng tôi sẽ không bao giờ dừng lại."
+        }
+      },
+      "section_3": {
+        "title": "Chất lượng tin cậy",
+        "content": "Trà là một trong những loại cây trồng tốt nhất cho con người. Chúng tôi tuân thủ nghiêm ngặt từng quy trình từ trồng trọt, hái, rang và quản lý trang trại."
+      },
+      "menu": "Thực đơn"
+    },
+    "about_page": {
+      "intro": "Thương hiệu",
+      "nav1": "Câu chuyện",
+      "nav2": "Chuyên nghiệp",
+      "nav3": "Nghệ thuật",
+      "nav4": "Nhân văn",
+      "content_1": {
+        "title": "Tính chuyên nghiệp",
+        "content": "Cống hiến hết mình cho việc pha trà trong hơn 2 thập kỷ, chúng tôi luôn kiên trì lặp lại từng chi tiết và phấn đấu hướng tới sự hoàn hảo."
+      },
+      "content_2": {
+        "title": "Nghệ thuật",
+        "content": "Cống hiến hết mình cho việc pha trà trong hơn 2 thập kỷ, chúng tôi luôn kiên trì lặp lại từng chi tiết và phấn đấu hướng tới sự hoàn hảo. Quá trình này không bao giờ mệt mỏi và chúng tôi sẽ kiên trì với tinh thần mãi mãi."
+      },
+      "content_3": {
+        "title": "Tính nhân văn",
+        "content": "Tính nhân văn là điều bắt buộc và chúng tôi tận tâm cung cấp chất lượng tốt nhất. Chúng tôi cam kết theo đuổi sự xuất sắc và chúng tôi sẽ không bao giờ dừng lại."
+      }
+    },
+    "products_page": {
+      "intro": "Thực đơn",
+      "nav1": "Tất cả",
+      "nav2": "Đồ uống lạnh",
+      "nav3": "Đồ uống nóng"
+    },
+    "news_page": {
+      "intro": "Tin tức",
+      "title": "Tin tức nổi bật"
+    },
+    "contact_page": {
+      "intro": "Liên hệ",
+      "title": "Bản đồ"
+    }
+  }
+}

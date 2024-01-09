@@ -1,0 +1,28 @@
+.footer{
+    background-color: var(--bg-dark);
+    box-shadow: 0 1px 10px rgba(95, 111, 149, 0.35);
+
+}
+
+.back-to-top{
+    animation: uptodown 1s ease-in-out infinite;
+}
+
+.back-to-top:hover p{
+    opacity: 0.8;
+    transition: opacity 0.3s ease-in-out;
+    color: var(--primary-color);
+}
+
+@keyframes uptodown {
+    0%{
+        transform: translateY(-5px);
+    }
+    50%{
+        transform: translateY(5px);
+    }
+    100%{
+        transform: translateY(-5px);
+    }
+    
+}
