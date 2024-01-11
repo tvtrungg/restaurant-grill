@@ -1,7 +1,9 @@
 .footer{
-    background-color: var(--bg-dark);
-    box-shadow: 0 1px 10px rgba(95, 111, 149, 0.35);
+    background-color: #00000026;
+}
 
+.footer h2{
+    color: var(--primary-hover);
 }
 
 .back-to-top{

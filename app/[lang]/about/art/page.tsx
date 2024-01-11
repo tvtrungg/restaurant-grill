@@ -7,7 +7,7 @@ import { useTranslations } from "next-intl";
 function ArtPage() {
   const t = useTranslations('container.about_page')
   return (
-    <div className="max-w-screen-2xl mx-auto sm:px-20">
+    <div className="max-w-screen-2xl mx-auto">
       <div className="mb-12 text-[--primary-color]">
         <h1 className="text-2xl xs:text-3xl 2xs:text-4xl tracking-wider text-center uppercase pb-5">
           {t('nav3')}
@@ -20,7 +20,7 @@ function ArtPage() {
         className="lg:flex-col"
         img={img_1}
         alt={t('content_2.title')}
-        item2='lg:basis-auto h-[40vh] sm:h-[50vh] lg:h-[60vh]'
+        item2='lg:w-full h-[40vh] sm:h-[50vh] lg:h-[60vh]'
       />
 
 

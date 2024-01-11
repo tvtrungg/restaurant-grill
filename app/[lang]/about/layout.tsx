@@ -28,7 +28,7 @@ export default function AboutLayout({ children, params }: AboutLayoutProps) {
   return (
     <main className='about-container'>
       <CustomContent
-        brand='brand' intro='about_page.intro' background='about-bg' title=''
+        brand='brand' intro='about_page.intro' background='banner-about-bg' title=''
         subNav={
           <SubNavigation params={params} navItems={navItems} currentRoute={currentRoute} navName={navName} />
         }

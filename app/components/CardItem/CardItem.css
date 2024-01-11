@@ -26,6 +26,7 @@
   transition-delay: 0s;
 }
 
+.card-wrapper .card-details .rating,
 .card-wrapper .card-details span {
   display: block;
   opacity: 0;

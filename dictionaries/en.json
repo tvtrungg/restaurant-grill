@@ -1,9 +1,9 @@
 {
   "container": {
-    "brand": "Brand",
+    "brand": "Intro",
     "date": "Monday - Saturday: 7:00 - 22:00",
-    "phone": "+84 123 456 789",
-    "mail": "siptea@gmail.com",
+    "phone": "+84 123 456 xxx",
+    "mail": "tabigrill@gmail.com",
     "address": "District 1, Ho Chi Minh City",
     "button": {
       "read_btn": "Read more"
@@ -26,9 +26,10 @@
     },
     "home_page": {
       "section_1": {
-        "slogan": "Savor the Delicate Flavors of Our Bubble Tea!"
+        "slogan": "Experience a sophisticated and luxurious space!"
       },
       "section_2": {
+        "title": "Outstanding",
         "carousel_content_1": {
           "title": "Professionalism",
           "content": "Devoting ourselves to tea brewing for more than 2 decades, we've been insisting on repeating each detail and striving towards perfection. The process is never tiresome, and we will insist on the spirit forever."
@@ -42,14 +43,17 @@
           "content": "Professionalism is a must, and we are dedicated to providing the best quality. We are committed to the pursuit of excellence, and we will never stop."
         }
       },
-      "section_3": {
+      "section_3":{
+        "title": "Signature"
+      },
+      "section_4": {
         "title": "Reliable Quality",
-        "content": "Tea is one of the best crops for human beings. We follow each process rigorously from cultivating, plucking, roasting and farm management."
+        "content": "Quality is more than just a commitment - it's a trusted feature of every meal. Fresh ingredients and professional baking processes create unique culinary experiences, always ensuring the quality standards we promise."
       },
       "menu": "Menu"
     },
     "about_page": {
-      "intro": "Introduction",
+      "intro": "About Us",
       "nav1": "Brand Story",
       "nav2": "Professionalism",
       "nav3": "Art Area",
@@ -70,8 +74,8 @@
     "products_page": {
       "intro": "Menu",
       "nav1": "Full Menu",
-      "nav2": "Cold Items",
-      "nav3": "Hot Items"
+      "nav2": "Drinks Items",
+      "nav3": "Food Items"
     },
     "news_page": {
       "intro": "News",

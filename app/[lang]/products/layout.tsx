@@ -16,8 +16,8 @@ export default function Products({ children, params }: TProductsProps) {
   const t = useTranslations('container')
   const navItems = [
     { href: `products`, label: t('products_page.nav1') },
-    { href: `products/cold-items`, label: t('products_page.nav2') },
-    { href: `products/hot-items`, label: t('products_page.nav3') },
+    { href: `products/drinks-items`, label: t('products_page.nav2') },
+    { href: `products/food-items`, label: t('products_page.nav3') },
   ];
   let currentRoute = useGetPath()[3] || 'products';
 
@@ -25,9 +25,9 @@ export default function Products({ children, params }: TProductsProps) {
   let navName = matchingNavItem ? matchingNavItem.label : t('products_page.nav1');
 
   return (
-    <main className='menu-container pt-20 lg:pt-32'>
+    <main className='menu-container'>
       <CustomContent
-        brand='brand' intro='products_page.intro' background='menu-bg' title=''
+        brand='brand' intro='products_page.intro' background='banner-menu-bg' title=''
         subNav={
           <SubNavigation params={params} navItems={navItems} currentRoute={currentRoute} navName={navName} />
         }
